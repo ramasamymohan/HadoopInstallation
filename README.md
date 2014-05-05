@@ -2,7 +2,7 @@ HadoopInstallation
 ==================
 
 Shell script for intalling hadoop 
-Apache Hadoop 2.X.X and Apache Spark 0.8.0 Installation
+Apache Hadoop 2.X.X 
 ==============
 
 Apache Hadoop 2.X.X installation...
