@@ -1,8 +1,6 @@
 HadoopInstallation
 ==================
-
 Shell script for intalling hadoop 
-Apache Hadoop 2.X.X 
 ==============
 
 Apache Hadoop 2.X.X installation...
